@@ -8,7 +8,7 @@
 3. nunjucks
 4. pg
 
-## How stater
+## How to install
 
 use yarn or npm install
 
@@ -19,5 +19,10 @@ use yarn or npm install
 3. DB_HOST
 4. DB_PORT
 5. DB_DATABASE
+6. PORT
 
+## Get stared
+
+use in to commander:
+yarn start or npm start
 
